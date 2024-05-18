@@ -11,4 +11,4 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<div align="center"><b>I DON'T store all my completed code here. Check my <a href="https://gitlab.com/remainedmind">Gitlab</a> also</b></div>
+<div align="center"><b>Not all of my code is stored here, so check my <a href="https://gitlab.com/remainedmind">Gitlab</a> also</b></div>
